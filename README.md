@@ -1,3 +1,3 @@
 # hello-world
 
-console.log('just trying to get started with codingg');
+console.log('just trying to get started with coding');
